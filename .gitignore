@@ -1,0 +1,12 @@
+# LaTeX
+main.aux
+main.log
+
+# Hosting
+.config/
+.cache/
+index.html
+nohup.out
+runner.sh
+.replit
+replit.nix
